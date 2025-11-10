@@ -1,5 +1,4 @@
 # datascience_project
-Data Science project
 
 Il dataset contiene i dati relativi al consumo di elettricità in ciascuno dei continenti nel mondo.
 I campi sono il nome delle nazioni, il codice delle nazioni, il nome di serie, 
